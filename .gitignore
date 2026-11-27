@@ -1,1 +1,6 @@
+# The maintainer's own idea notes and assistant setup, kept on his machine. The instructions
+# for any coding agent are in AGENTS.md.
 _dev/docs/(idea)*
+CLAUDE.md
+CLAUDE.local.md
+.claude/
